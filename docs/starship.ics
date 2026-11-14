@@ -8,24 +8,8 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ef9b458b-bebf-4eb6-b970-8d77998616f3@starship-calendar
-DTSTAMP:20261113T223732Z
-LAST-MODIFIED:20250528T133911Z
-SEQUENCE:29140659
-SUMMARY:🚀 Starship Flight 9 ❌
-LOCATION:Orbital Launch Pad 1\, SpaceX Starbase\, TX\, USA
-DESCRIPTION:Status: Launch Failure\nT-0 precision: Minute\nWebcast: https:/
- /www.spacex.com/launches/\n9th test flight of the two-stage Starship launc
- h vehicle.\nLast updated (LL2): 2025-05-28 13:39 UTC\nData: Launch Library
-  2 by The Space Devs
-URL:https://www.spacex.com/launches/
-TRANSP:TRANSPARENT
-DTSTART:20250527T233600Z
-DTEND:20250528T010600Z
-END:VEVENT
-BEGIN:VEVENT
 UID:fc1dafd8-bcb0-4e77-8ba9-2d03134f04e4@starship-calendar
-DTSTAMP:20261113T223732Z
+DTSTAMP:20261114T031517Z
 LAST-MODIFIED:20250829T065218Z
 SEQUENCE:29274172
 SUMMARY:🚀 Starship Flight 10 ✅
@@ -41,7 +25,7 @@ DTEND:20250827T010000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:41068e09-4097-448f-ac7c-421c19b6aab9@starship-calendar
-DTSTAMP:20261113T223732Z
+DTSTAMP:20261114T031517Z
 LAST-MODIFIED:20251014T070029Z
 SEQUENCE:29340420
 SUMMARY:🚀 Starship Flight 11 ✅
@@ -57,7 +41,7 @@ DTEND:20251014T005341Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ed83366c-872c-4484-97c1-bc74832304fc@starship-calendar
-DTSTAMP:20261113T223732Z
+DTSTAMP:20261114T031517Z
 LAST-MODIFIED:20260529T132612Z
 SEQUENCE:29667686
 SUMMARY:🚀 Starship Flight 12 ✅
@@ -94,7 +78,7 @@ DTEND:20260523T000024Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ac897b9f-44d2-4ff4-8416-1a0a076e98a2@starship-calendar
-DTSTAMP:20261113T223732Z
+DTSTAMP:20261114T031517Z
 LAST-MODIFIED:20260920T021715Z
 SEQUENCE:29831177
 SUMMARY:🚀 Starship Flight 13 ✅
@@ -119,7 +103,7 @@ DTEND:20260725T002100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:7d1afb26-6f9c-429b-9ccf-29012fd1e519@starship-calendar
-DTSTAMP:20261113T223732Z
+DTSTAMP:20261114T031517Z
 LAST-MODIFIED:20260929T153332Z
 SEQUENCE:29844933
 SUMMARY:🚀 Starship Starlink Group 31-1 (Starship Flight 14) ✅
@@ -146,30 +130,30 @@ DTEND:20260928T141859Z
 END:VEVENT
 BEGIN:VEVENT
 UID:0f867f0c-5422-4d44-93b8-d7faaae7019b@starship-calendar
-DTSTAMP:20261113T223732Z
-LAST-MODIFIED:20261113T220733Z
-SEQUENCE:29910127
-SUMMARY:🚀 Starship Starlink Group 31-2 (Starship Flight 15)
+DTSTAMP:20261114T031517Z
+LAST-MODIFIED:20261114T021154Z
+SEQUENCE:29910371
+SUMMARY:🚀 Starship Starlink Group 31-2 (Starship Flight 15) (Deployed)
 LOCATION:Orbital Launch Pad 2\, SpaceX Starbase\, TX\, USA
-DESCRIPTION:Status: Go for Launch\nT-0 precision: Second\nWebcast: https://
- www.spacex.com/launches/\n15th test flight of the two-stage Starship launc
- h vehicle and 4th flight of Starship V3. Second Starship flight to deploy 
- satellites (a group of Starlink satellites known as Starlink Group 31-2) i
- nto stable Low Earth Orbit and first ever to attempt returning the Starshi
- p 2nd stage back to the launch site.\n\nThe ship is expected to fly at an 
- altitude approximately 275 km above Earth and complete approximately 14 or
- bits around the planet for more than 22 hours\, with the ship expected to 
- attempt returning back to Starbase\, Texas on its launch pad by pad arms c
- atching.\n\nThe booster’s primary test objective on Flight 15 will be ex
- ecuting a successful launch\, ascent\, stage separation\, boostback burn\,
-  and landing by pad arms catching. This will also be the 1st Starship V3 b
- ooster to attempt returning to its launch site.\n\nStarship will deliver 2
- 6 Starlink V3 satellites to orbit for the second time\, which aim to great
- ly expand the network's capacity and user speeds. Each Starlink V3 satelli
- te will add 1 Tbps of capacity to the constellation. 3 of the satellites h
- ave been modified with a suite of cameras to scan Starship’s heatshield 
- and transmit imagery down to operators.\nLast updated (LL2): 2026-11-13 22
- :07 UTC\nData: Launch Library 2 by The Space Devs
+DESCRIPTION:Status: Payload Deployed\nT-0 precision: Second\nWebcast: https
+ ://www.spacex.com/launches/\n15th test flight of the two-stage Starship la
+ unch vehicle and 4th flight of Starship V3. Second Starship flight to depl
+ oy satellites (a group of Starlink satellites known as Starlink Group 31-2
+ ) into stable Low Earth Orbit and first ever to attempt returning the Star
+ ship 2nd stage back to the launch site.\n\nThe ship is expected to fly at 
+ an altitude approximately 275 km above Earth and complete approximately 14
+  orbits around the planet for more than 22 hours\, with the ship expected 
+ to attempt returning back to Starbase\, Texas on its launch pad by pad arm
+ s catching.\n\nThe booster’s primary test objective on Flight 15 will be
+  executing a successful launch\, ascent\, stage separation\, boostback bur
+ n\, and landing by pad arms catching. This will also be the 1st Starship V
+ 3 booster to attempt returning to its launch site.\n\nStarship will delive
+ r 26 Starlink V3 satellites to orbit for the second time\, which aim to gr
+ eatly expand the network's capacity and user speeds. Each Starlink V3 sate
+ llite will add 1 Tbps of capacity to the constellation. 3 of the satellite
+ s have been modified with a suite of cameras to scan Starship’s heatshie
+ ld and transmit imagery down to operators.\nLast updated (LL2): 2026-11-14
+  02:11 UTC\nData: Launch Library 2 by The Space Devs
 URL:https://www.spacex.com/launches/
 TRANSP:TRANSPARENT
 DTSTART:20261113T224736Z
@@ -187,7 +171,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b97ec300-56b8-49b1-9a17-43b06bcae6f1@starship-calendar
-DTSTAMP:20261113T223732Z
+DTSTAMP:20261114T031517Z
 LAST-MODIFIED:20260822T003757Z
 SEQUENCE:29789317
 SUMMARY:🚀 Starship SpaceX HLS LEO Demo (TBD) [NET Month]
@@ -209,7 +193,7 @@ DTEND;VALUE=DATE:20270701
 END:VEVENT
 BEGIN:VEVENT
 UID:78775018-e720-4a50-a72c-e448a644c7a0@starship-calendar
-DTSTAMP:20261113T223732Z
+DTSTAMP:20261114T031517Z
 LAST-MODIFIED:20260815T165716Z
 SEQUENCE:29780217
 SUMMARY:🚀 Starship Superbird-9 (TBD) [NET Year]
@@ -227,7 +211,7 @@ DTEND;VALUE=DATE:20290101
 END:VEVENT
 BEGIN:VEVENT
 UID:17b75859-1630-481b-9985-6eef21dcc9a8@starship-calendar
-DTSTAMP:20261113T223732Z
+DTSTAMP:20261114T031517Z
 LAST-MODIFIED:20251003T085243Z
 SEQUENCE:29324692
 SUMMARY:🚀 Starship Starlab (TBD) [NET Year]
